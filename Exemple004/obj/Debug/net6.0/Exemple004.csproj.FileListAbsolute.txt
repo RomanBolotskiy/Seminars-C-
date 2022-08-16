@@ -1,0 +1,15 @@
+C:\Users\roman\OneDrive\Рабочий стол\Семинар2\Exemple004\obj\Debug\net6.0\Exemple004.csproj.AssemblyReference.cache
+C:\Users\roman\OneDrive\Рабочий стол\Семинар2\Exemple004\obj\Debug\net6.0\Exemple004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman\OneDrive\Рабочий стол\Семинар2\Exemple004\obj\Debug\net6.0\Exemple004.AssemblyInfoInputs.cache
+C:\Users\roman\OneDrive\Рабочий стол\Семинар2\Exemple004\obj\Debug\net6.0\Exemple004.AssemblyInfo.cs
+C:\Users\roman\OneDrive\Рабочий стол\Семинар2\Exemple004\obj\Debug\net6.0\Exemple004.csproj.CoreCompileInputs.cache
+C:\Users\roman\OneDrive\Рабочий стол\Семинар2\Exemple004\bin\Debug\net6.0\Exemple004.exe
+C:\Users\roman\OneDrive\Рабочий стол\Семинар2\Exemple004\bin\Debug\net6.0\Exemple004.deps.json
+C:\Users\roman\OneDrive\Рабочий стол\Семинар2\Exemple004\bin\Debug\net6.0\Exemple004.runtimeconfig.json
+C:\Users\roman\OneDrive\Рабочий стол\Семинар2\Exemple004\bin\Debug\net6.0\Exemple004.dll
+C:\Users\roman\OneDrive\Рабочий стол\Семинар2\Exemple004\bin\Debug\net6.0\Exemple004.pdb
+C:\Users\roman\OneDrive\Рабочий стол\Семинар2\Exemple004\obj\Debug\net6.0\Exemple004.dll
+C:\Users\roman\OneDrive\Рабочий стол\Семинар2\Exemple004\obj\Debug\net6.0\refint\Exemple004.dll
+C:\Users\roman\OneDrive\Рабочий стол\Семинар2\Exemple004\obj\Debug\net6.0\Exemple004.pdb
+C:\Users\roman\OneDrive\Рабочий стол\Семинар2\Exemple004\obj\Debug\net6.0\Exemple004.genruntimeconfig.cache
+C:\Users\roman\OneDrive\Рабочий стол\Семинар2\Exemple004\obj\Debug\net6.0\ref\Exemple004.dll
